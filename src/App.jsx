@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import "./index.css";
 
-const API = "http://localhost:8080/api";
+const API = "https://skillsync-backend-dog1.onrender.com";
 
 /* =========================================================
    APP
